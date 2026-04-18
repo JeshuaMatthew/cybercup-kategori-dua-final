@@ -1,19 +1,27 @@
-# Lorem Ipsum - Dolor Sit Amet
+## Color Palette
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+Daftar kode hex warna yang digunakan dalam website ini:
 
-## Lorem
-- **Ipsum**: Lorem ipsum dolor sit amet.
-- **Dolor**: Lorem ipsum dolor sit amet.
-- **Sit**: Lorem ipsum dolor sit amet.
-- **Amet**: Lorem ipsum dolor sit amet.
+- **Title**: `#333333`
+- **Subtitle / Body**: `#010100`
+- **Background (White)**: `#ffffff`
+- **Background (Grey)**: `#f4f4f4`
+- **Borders**: `#cccccc`
+- **Secondary Text**: `#888888`
+- **Placeholders**: `#dddddd`
 
-## Consectetur
-- `lorem.html`: Lorem ipsum.
-- `ipsum.html`: Lorem ipsum.
-- `dolor.html`: Lorem ipsum.
-- `style.css`: Lorem ipsum.
-- `img/`: Lorem ipsum.
+## Assets
 
-## Adipiscing
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Semua gambar yang dibutuhkan pada halaman web harus menggunakan file gambar yang tersedia di dalam folder `img/`.
+
+## API Endpoint
+
+- **URL Fetch Products**: `https://dummyjson.com/products?limit=9`
+
+## Profile Page
+
+Pada halaman profile, ubah placeholder menjadi:
+
+- Foto tim anda sendiri.
+- Nama Tim anda sendiri.
+- Nama Member Tim.
