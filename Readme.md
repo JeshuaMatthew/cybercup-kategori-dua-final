@@ -10,6 +10,14 @@ Daftar kode hex warna yang digunakan dalam website ini:
 - **Secondary Text**: `#888888`
 - **Placeholders**: `#dddddd`
 
+## Typography
+
+- **Google Font (Cinzel)**: `https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700&display=swap`
+- **Cara Menggunakan**:
+  ```css
+  font-family: "Cinzel", serif;
+  ```
+
 ## Assets
 
 Semua gambar yang dibutuhkan pada halaman web harus menggunakan file gambar yang tersedia di dalam folder `img/`.
